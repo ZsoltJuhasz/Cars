@@ -8,7 +8,9 @@
 * Licenc: GNU GPL
 */
 
-class Jarmu {
+
+
+export class Jarmu {
     id: number;
     plate: string;
     color: string;

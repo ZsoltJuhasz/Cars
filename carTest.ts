@@ -7,6 +7,8 @@
 * Github: https://github.com/ZsoltJuhasz/
 * Licenc: GNU GPL
 */
+
+import {Jarmu} from './car';
 var myName = "Juhász Zsolt"
 console.log(myName);
 
