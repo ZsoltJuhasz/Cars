@@ -1,5 +1,5 @@
 /*
-* File: carTest.ts
+* File: carTest.js
 * Author: Juhász Zsolt
 * Copyright: 2021, Juhász Zsolt
 * Group: Szoft 2 N
